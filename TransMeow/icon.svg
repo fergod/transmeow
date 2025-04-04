@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景圆 -->
+  <circle cx="64" cy="64" r="64" fill="white"/>
+  
+  <!-- 猫咪脸 -->
+  <path d="M64 20
+           C40 20 20 40 20 64
+           C20 88 40 108 64 108
+           C88 108 108 88 108 64
+           C108 40 88 20 64 20Z" 
+        fill="#FFA07A"/>
+  
+  <!-- 左眼 -->
+  <path d="M45 50
+           C42 50 40 53 40 56
+           C40 59 42 62 45 62
+           C48 62 50 59 50 56
+           C50 53 48 50 45 50Z"
+        fill="#000000"/>
+  
+  <!-- 右眼 -->
+  <path d="M83 50
+           C80 50 78 53 78 56
+           C78 59 80 62 83 62
+           C86 62 88 59 88 56
+           C88 53 86 50 83 50Z"
+        fill="#000000"/>
+  
+  <!-- 鼻子 -->
+  <path d="M64 65
+           L60 70
+           L68 70Z"
+        fill="#FF6B6B"/>
+  
+  <!-- 胡须 -->
+  <path d="M30 65 L50 63 M30 70 L50 70 M30 75 L50 77
+           M98 65 L78 63 M98 70 L78 70 M98 75 L78 77"
+        stroke="#000000"
+        stroke-width="2"
+        fill="none"/>
+  
+  <!-- 翻译标志 -->
+  <circle cx="95" cy="95" r="20" fill="#4285f4"/>
+  <text x="95" y="102" 
+        font-family="Arial, sans-serif" 
+        font-size="20" 
+        font-weight="bold" 
+        fill="white" 
+        text-anchor="middle">T</text>
+</svg> 
