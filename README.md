@@ -1,2 +1,3 @@
 # transmeow
 用cursor写的划词chrome翻译插件
+下载transmeow.zip，在chrome拓展管理中心安装即可使用
