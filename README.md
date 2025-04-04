@@ -1,2 +1,2 @@
 # transmeow
-用cursor写的划词chrom翻译插件
+用cursor写的划词chromd翻译插件
